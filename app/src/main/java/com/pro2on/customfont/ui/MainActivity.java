@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     /**
-     * Use thit layout
+     * Use this layout
      * */
     private static final int LAYOUT = R.layout.activity_main;
 
