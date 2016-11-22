@@ -25,7 +25,7 @@ public class FontManager {
     private static Typeface font2;
 
 
-    public static Typeface getFont1() {
+    public Typeface getFont1() {
         return font1;
     }
 
@@ -33,7 +33,7 @@ public class FontManager {
         FontManager.font1 = font1;
     }
 
-    public static Typeface getFont2() {
+    public Typeface getFont2() {
         return font2;
     }
 

@@ -1,4 +1,4 @@
-package com.pro2on.customfont.ui;
+package com.pro2on.customfont.ui.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
